@@ -2,7 +2,7 @@
 
 I write on [my website](https://danny.is/), collect [useful tools for teams](https://betterat.work/toolbox) and [help businesses get better at stuff](https://betterat.work/). I'm also a musician. I'm currently working on some things...
 
-<table style="background-color: red;">
+<table>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/dannysmith/taskdn">
