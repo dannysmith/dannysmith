@@ -25,6 +25,8 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ## Elsewhere On the Web
 
+<div align="center">
+
 | My Website                                      | Socials                                                                | Other                                       |
 | ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------- |
 | ✍️ [danny.is/writing](https://danny.is/writing) | 🦋 [Bluesky](https://bsky.app/profile/danny.is)                        | 🖥️ [Stuff I Use](https://danny.is/using)    |
@@ -32,6 +34,8 @@ A specialized schema-aware markdown editor for Astro content collections.
 | 📍 [danny.is/now](https://danny.is/now)         | 🐦 [Twitter](https://x.com/dannysmith)                                 | 🇬🇧 London, UK                               |
 |                                                 | 🦣 [Mastodon](https://indieweb.social/@dannysmith)                     |                                             |
 |                                                 | 📺 [YouTube](https://www.youtube.com/channel/UCp0vO-4tetByUhsVijyt2jA) |                                             |
+
+</div>
 
 ## Latest
 
