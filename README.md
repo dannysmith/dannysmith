@@ -25,13 +25,13 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ## Elsewhere On the Web
 
-| My Website                                   | Socials                                                             | Other                                       |
-| -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------- |
-| [danny.is/writing](https://danny.is/writing) | [Bluesky](https://bsky.app/profile/danny.is)                        | 🖥️ [Stuff I Use](https://danny.is/using)    |
-| [danny.is/notes](https://danny.is/notes)     | [LinkedIn](https://www.linkedin.com/in/dannyasmith)                 | 🧰 [Toolbox](https://betterat.work/toolbox) |
-| [danny.is/now](https://danny.is/now)         | [Twitter](https://x.com/dannysmith)                                 | 🇬🇧 London, UK                               |
-|                                              | [Mastodon](https://indieweb.social/@dannysmith)                     |                                             |
-|                                              | [YouTube](https://www.youtube.com/channel/UCp0vO-4tetByUhsVijyt2jA) |                                             |
+| My Website                                      | Socials                                                                | Other                                       |
+| ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------- |
+| ✍️ [danny.is/writing](https://danny.is/writing) | 🦋 [Bluesky](https://bsky.app/profile/danny.is)                        | 🖥️ [Stuff I Use](https://danny.is/using)    |
+| 📓 [danny.is/notes](https://danny.is/notes)     | 💼 [LinkedIn](https://www.linkedin.com/in/dannyasmith)                 | 🧰 [Toolbox](https://betterat.work/toolbox) |
+| 📍 [danny.is/now](https://danny.is/now)         | 🐦 [Twitter](https://x.com/dannysmith)                                 | 🇬🇧 London, UK                               |
+|                                                 | 🦣 [Mastodon](https://indieweb.social/@dannysmith)                     |                                             |
+|                                                 | 📺 [YouTube](https://www.youtube.com/channel/UCp0vO-4tetByUhsVijyt2jA) |                                             |
 
 ## Latest
 
