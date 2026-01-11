@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:astroeditor.danny.is)",
+      "WebFetch(domain:tdn.danny.is)"
+    ]
+  }
+}
