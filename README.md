@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Quoting Jim Nielsen: To Make Software Is To Translate Human Intent Into Computational Precision](https://danny.is/notes/2026-01-09-quoting-jim-nielsen-to-make/) <small>(Jan 09)</small>
+- [Quoting Tomasz Tunguz - The Text Box Isn't Enough](https://danny.is/notes/2026-01-09-the-text-box-isnt-enough/) <small>(Jan 09)</small>
 - [The Future of Software Development is Software Developers](https://danny.is/notes/2026-01-07-the-future-of-software-development/) <small>(Jan 07)</small>
 - [Consolidating Claude](https://danny.is/notes/consolidating-claude/) <small>(Jan 03)</small>
 - [Avoid Mini-frameworks - laike9m's blog](https://danny.is/notes/avoid-mini-frameworks-laike9m/) <small>(Dec 31)</small>
-- [My Global Raycast Snippets](https://danny.is/notes/my-global-snippets-dec-25/) <small>(Dec 31)</small>
-- [Quoting Sean Goedecke on Becoming Unblockable](https://danny.is/notes/sean-on-becoming-unblockable/) <small>(Dec 30)</small>
 <!-- notes ends -->
 
 </td>
