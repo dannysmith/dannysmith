@@ -45,11 +45,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Recent Releases
 <!-- releases starts -->
+- [astro-editor v1.0.12](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.12) <small>(Mar 31)</small>
 - [astro-editor v1.0.11](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.11) <small>(Mar 28)</small>
 - [taskdn desktop-v0.1.4](https://github.com/dannysmith/taskdn/releases/tag/desktop-v0.1.4) <small>(Mar 28)</small>
 - [taskdn desktop-v0.1.3](https://github.com/dannysmith/taskdn/releases/tag/desktop-v0.1.3) <small>(Mar 28)</small>
 - [astro-editor v1.0.10](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.10) <small>(Feb 16)</small>
-- [astro-editor v1.0.9](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.9) <small>(Feb 16)</small>
 <!-- releases ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Minecraft Bluemap Plugins &amp; Managing a Minecraft Server](https://danny.is/notes/minecraft-bluemap-plugins/) <small>(Mar 31)</small>
+- [Tracking Biggles Books](https://danny.is/notes/tracking-biggles-books/) <small>(Mar 30)</small>
+- [Code has always been the easy part | Quoting Kellan Elliott-McCrea](https://danny.is/notes/2026-03-25-code-has-always-been-the/) <small>(Mar 25)</small>
 - [Quoting Jasmine Sun on My Claude Code Psychosis](https://danny.is/notes/2026-01-26-my-claude-code-psychosis/) <small>(Jan 26)</small>
 - [Claude Code hallucinating like it's 2024](https://danny.is/notes/2026-01-22-claude-code-hallucinating-like-2024/) <small>(Jan 22)</small>
-- [A Social Filesystem by Dan Abramov](https://danny.is/notes/2026-01-21-a-social-filesystem-by-dan/) <small>(Jan 21)</small>
-- [Quoting Jim Nielsen: To Make Software Is To Translate Human Intent Into Computational Precision](https://danny.is/notes/2026-01-09-quoting-jim-nielsen-to-make/) <small>(Jan 09)</small>
-- [Quoting Tomasz Tunguz - The Text Box Isn't Enough](https://danny.is/notes/2026-01-09-the-text-box-isnt-enough/) <small>(Jan 09)</small>
 <!-- notes ends -->
 
 </td>
