@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Roberts Radios](https://danny.is/notes/roberts-radios/) <small>(Apr 02)</small>
+- [Alex Piechowski: How I Audit a Legacy Rails Codebase in the First Week](https://danny.is/notes/2026-04-01-alex-piechowski-how-i-audit/) <small>(Apr 01)</small>
 - [Minecraft Bluemap Plugins &amp; Managing a Minecraft Server](https://danny.is/notes/minecraft-bluemap-plugins/) <small>(Mar 31)</small>
 - [Tracking Biggles Books](https://danny.is/notes/tracking-biggles-books/) <small>(Mar 30)</small>
 - [Code has always been the easy part | Quoting Kellan Elliott-McCrea](https://danny.is/notes/2026-03-25-code-has-always-been-the/) <small>(Mar 25)</small>
-- [Quoting Jasmine Sun on My Claude Code Psychosis](https://danny.is/notes/2026-01-26-my-claude-code-psychosis/) <small>(Jan 26)</small>
-- [Claude Code hallucinating like it's 2024](https://danny.is/notes/2026-01-22-claude-code-hallucinating-like-2024/) <small>(Jan 22)</small>
 <!-- notes ends -->
 
 </td>
