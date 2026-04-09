@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Cobalt Next for Zed](https://danny.is/notes/cobalt-next-for-zed/) <small>(Apr 09)</small>
+- [Switching back to VSCode](https://danny.is/notes/switching-back-to-vscode/) <small>(Apr 07)</small>
+- [Quoting: An appreciation for (technical) architecture (Interconnected)](https://danny.is/notes/2026-04-02-an-appreciation-for-technical-architecture/) <small>(Apr 02)</small>
 - [Roberts Radios](https://danny.is/notes/roberts-radios/) <small>(Apr 02)</small>
 - [Alex Piechowski: How I Audit a Legacy Rails Codebase in the First Week](https://danny.is/notes/2026-04-01-alex-piechowski-how-i-audit/) <small>(Apr 01)</small>
-- [Minecraft Bluemap Plugins &amp; Managing a Minecraft Server](https://danny.is/notes/minecraft-bluemap-plugins/) <small>(Mar 31)</small>
-- [Tracking Biggles Books](https://danny.is/notes/tracking-biggles-books/) <small>(Mar 30)</small>
-- [Code has always been the easy part | Quoting Kellan Elliott-McCrea](https://danny.is/notes/2026-03-25-code-has-always-been-the/) <small>(Mar 25)</small>
 <!-- notes ends -->
 
 </td>
