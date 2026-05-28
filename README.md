@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Some Work on this Site](https://danny.is/writing/2026-05-28-work-on-this-site/) <small>(May 28)</small>
 - [Introducing Astro Editor](https://danny.is/writing/introducing-astro-editor/) <small>(Jan 08)</small>
 - [Moving this site to Astro](https://danny.is/writing/moving-to-astro/) <small>(Oct 25)</small>
 - [AI and ADHD](https://danny.is/writing/ai-and-adhd/) <small>(Jul 10)</small>
 - [Personal CRMs Aren't What I Need](https://danny.is/writing/personal-crms-clay-earth-is-not-what-i-need/) <small>(Feb 05)</small>
-- [Building Healthy Remote Organizations - The Silent Enabler of Success](https://danny.is/writing/organisational-health/) <small>(Feb 10)</small>
 <!-- articles ends -->
 
 </td>
