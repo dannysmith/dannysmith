@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [New AI Statement, Privacy Policy and Colophon Pages](https://danny.is/notes/new-meta-pages/) <small>(Jun 14)</small>
+- [The end of responsive images - Piccalilli](https://danny.is/notes/2026-06-06-the-end-of-responsive-images/) <small>(Jun 06)</small>
 - [Just Testing](https://danny.is/notes/2026-06-05-just-testing/) <small>(Jun 05)</small>
 - [This site now has Atproto Records](https://danny.is/notes/2026-06-04-this-site-on-atproto/) <small>(Jun 04)</small>
 - [DHH’s new way of writing code](https://danny.is/notes/2026-04-28-dhhs-new-way-of-writing/) <small>(Apr 28)</small>
-- [Theo: Open source is dead now?](https://danny.is/notes/2026-04-22-theo-open-source-is-dead/) <small>(Apr 22)</small>
-- [Cobalt Next for Zed](https://danny.is/notes/cobalt-next-for-zed/) <small>(Apr 09)</small>
 <!-- notes ends -->
 
 </td>
