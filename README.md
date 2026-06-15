@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Speeding up Astro builds and improving deployment](https://danny.is/writing/speeding-up-astro-builds/) <small>(Jun 14)</small>
 - [Some Work on this Site](https://danny.is/writing/2026-05-28-work-on-this-site/) <small>(May 28)</small>
 - [Introducing Astro Editor](https://danny.is/writing/introducing-astro-editor/) <small>(Jan 08)</small>
 - [Moving this site to Astro](https://danny.is/writing/moving-to-astro/) <small>(Oct 25)</small>
 - [AI and ADHD](https://danny.is/writing/ai-and-adhd/) <small>(Jul 10)</small>
-- [Personal CRMs Aren't What I Need](https://danny.is/writing/personal-crms-clay-earth-is-not-what-i-need/) <small>(Feb 05)</small>
 <!-- articles ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [A less painful editing experience in Astro](https://danny.is/notes/less-painful-editing-in-astro/) <small>(Jun 14)</small>
 - [New AI Statement, Privacy Policy and Colophon Pages](https://danny.is/notes/new-meta-pages/) <small>(Jun 14)</small>
+- [Nicer Cover Images](https://danny.is/notes/nicer-cover-images/) <small>(Jun 14)</small>
 - [The end of responsive images - Piccalilli](https://danny.is/notes/2026-06-06-the-end-of-responsive-images/) <small>(Jun 06)</small>
 - [Just Testing](https://danny.is/notes/2026-06-05-just-testing/) <small>(Jun 05)</small>
-- [This site now has Atproto Records](https://danny.is/notes/2026-06-04-this-site-on-atproto/) <small>(Jun 04)</small>
-- [DHH’s new way of writing code](https://danny.is/notes/2026-04-28-dhhs-new-way-of-writing/) <small>(Apr 28)</small>
 <!-- notes ends -->
 
 </td>
