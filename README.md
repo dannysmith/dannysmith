@@ -45,11 +45,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Recent Releases
 <!-- releases starts -->
+- [astro-editor v1.0.17](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.17) <small>(Jun 27)</small>
+- [astro-editor v1.0.16](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.16) <small>(Jun 27)</small>
 - [astro-editor v1.0.15](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.15) <small>(Jun 18)</small>
 - [astro-editor v1.0.14](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.14) <small>(Jun 02)</small>
 - [astro-editor v1.0.12](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.12) <small>(Mar 31)</small>
-- [astro-editor v1.0.11](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.11) <small>(Mar 28)</small>
-- [taskdn desktop-v0.1.4](https://github.com/dannysmith/taskdn/releases/tag/desktop-v0.1.4) <small>(Mar 28)</small>
 <!-- releases ends -->
 
 </td>
