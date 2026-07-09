@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [A standalone implementation timeout for macOS](https://danny.is/notes/2026-07-08-a-standalone-implementation-timeout-for/) <small>(Jul 08)</small>
 - [A New Website for Astro Editor](https://danny.is/notes/new-website-astro-editor/) <small>(Jun 30)</small>
 - [Test note - Vibe Coding an iOS app and Chrome extension to publish notes on this site!](https://danny.is/notes/test-note-vibe-coding-ios-app-chrome-extension/) <small>(Jun 30)</small>
 - [On standardising bookmarks in the Atmosphere](https://danny.is/notes/standardising-bookmarks-atmosphere/) <small>(Jun 29)</small>
 - [This site has a styleguide now](https://danny.is/notes/site-styleguide-now/) <small>(Jun 19)</small>
-- [A less painful editing experience in Astro](https://danny.is/notes/less-painful-editing-in-astro/) <small>(Jun 14)</small>
 <!-- notes ends -->
 
 </td>
