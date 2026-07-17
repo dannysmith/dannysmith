@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Showing my Toolbox on this site](https://danny.is/notes/showing-my-toolbox-on-this-site/) <small>(Jul 17)</small>
+- [Theme-aware Mermaid Diagrams at build-time](https://danny.is/notes/theme-aware-mermaid-diagrams-build-time/) <small>(Jul 16)</small>
+- [Moving my "Uses" pages to this site](https://danny.is/notes/moving-uses-pages-site/) <small>(Jul 15)</small>
+- [Upgrading to Astro 7 and switching to Sätteri](https://danny.is/notes/upgrading-astro-7-switching-satteri/) <small>(Jul 15)</small>
 - [Adding projects to this site, plus a few other bits](https://danny.is/notes/adding-projects-site-plus-few-other-bits/) <small>(Jul 11)</small>
-- [A standalone implementation timeout for macOS](https://danny.is/notes/2026-07-08-a-standalone-implementation-timeout-for/) <small>(Jul 08)</small>
-- [A New Website for Astro Editor](https://danny.is/notes/new-website-astro-editor/) <small>(Jun 30)</small>
-- [Test note - Vibe Coding an iOS app and Chrome extension to publish notes on this site!](https://danny.is/notes/test-note-vibe-coding-ios-app-chrome-extension/) <small>(Jun 30)</small>
-- [On standardising bookmarks in the Atmosphere](https://danny.is/notes/standardising-bookmarks-atmosphere/) <small>(Jun 29)</small>
 <!-- notes ends -->
 
 </td>
