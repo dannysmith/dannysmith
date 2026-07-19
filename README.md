@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [The new tesco QR codes are cool](https://danny.is/notes/2026-07-19-new-tesco-qr-codes-cool/) <small>(Jul 19)</small>
 - [Showing my Toolbox on this site](https://danny.is/notes/showing-my-toolbox-on-this-site/) <small>(Jul 17)</small>
 - [Theme-aware Mermaid Diagrams at build-time](https://danny.is/notes/theme-aware-mermaid-diagrams-build-time/) <small>(Jul 16)</small>
 - [Moving my "Uses" pages to this site](https://danny.is/notes/moving-uses-pages-site/) <small>(Jul 15)</small>
 - [Upgrading to Astro 7 and switching to Sätteri](https://danny.is/notes/upgrading-astro-7-switching-satteri/) <small>(Jul 15)</small>
-- [Adding projects to this site, plus a few other bits](https://danny.is/notes/adding-projects-site-plus-few-other-bits/) <small>(Jul 11)</small>
 <!-- notes ends -->
 
 </td>
