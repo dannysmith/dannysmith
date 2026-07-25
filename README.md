@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
+- [An actual homepage for this site (finally)](https://danny.is/writing/an-actual-homepage/) <small>(Jul 23)</small>
 - [Introducing my very own Loom](https://danny.is/writing/loomclone-part-1/) <small>(Jul 07)</small>
 - [Vibe coding an iOS app to publish notes here](https://danny.is/writing/vibe-coding-ios-app-chrome-extension-publish-notes/) <small>(Jun 30)</small>
 - [Making this Astro site more Agent-Friendly](https://danny.is/writing/making-this-astro-site-agent-friendly/) <small>(Jun 18)</small>
-- [Speeding up Astro builds and improving deployment](https://danny.is/writing/speeding-up-astro-builds/) <small>(Jun 14)</small>
-- [Some Work on this Site](https://danny.is/writing/2026-05-28-work-on-this-site/) <small>(May 28)</small>
 <!-- articles ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Quoting Linus on AI](https://danny.is/notes/quoting-linus-ai/) <small>(Jul 24)</small>
+- [In Memoriam, Encountering World War I, and Thinkable Horrors](https://danny.is/notes/2026-07-23-in-memoriam-encountering-world-war/) <small>(Jul 23)</small>
 - [The new tesco QR codes are cool](https://danny.is/notes/2026-07-19-new-tesco-qr-codes-cool/) <small>(Jul 19)</small>
 - [Showing my Toolbox on this site](https://danny.is/notes/showing-my-toolbox-on-this-site/) <small>(Jul 17)</small>
 - [Theme-aware Mermaid Diagrams at build-time](https://danny.is/notes/theme-aware-mermaid-diagrams-build-time/) <small>(Jul 16)</small>
-- [Moving my "Uses" pages to this site](https://danny.is/notes/moving-uses-pages-site/) <small>(Jul 15)</small>
-- [Upgrading to Astro 7 and switching to Sätteri](https://danny.is/notes/upgrading-astro-7-switching-satteri/) <small>(Jul 15)</small>
 <!-- notes ends -->
 
 </td>
