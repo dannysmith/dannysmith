@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
-- [Quoting Linus on AI](https://danny.is/notes/quoting-linus-ai/) <small>(Jul 24)</small>
-- [In Memoriam, Encountering World War I, and Thinkable Horrors](https://danny.is/notes/2026-07-23-in-memoriam-encountering-world-war/) <small>(Jul 23)</small>
-- [The new tesco QR codes are cool](https://danny.is/notes/2026-07-19-new-tesco-qr-codes-cool/) <small>(Jul 19)</small>
-- [Showing my Toolbox on this site](https://danny.is/notes/showing-my-toolbox-on-this-site/) <small>(Jul 17)</small>
-- [Theme-aware Mermaid Diagrams at build-time](https://danny.is/notes/theme-aware-mermaid-diagrams-build-time/) <small>(Jul 16)</small>
+- [A License to Act - Jim Nielsen](https://danny.is/notes/2026-08-14-a-license-to-act/) <small>(Aug 14)</small>
+- [Against Doomerism](https://danny.is/notes/2026-08-14-against-doomerism-terence-edens-blog/) <small>(Aug 14)</small>
+- [Better Tweets on this site](https://danny.is/notes/2026-08-14-better-tweets-on-this-site/) <small>(Aug 14)</small>
+- [How to spot AI writing](https://danny.is/notes/2026-08-14-how-to-spot-ai-writing/) <small>(Aug 14)</small>
+- [Make It Work vs. Make It Good - Jim Nielsen](https://danny.is/notes/2026-08-14-make-it-work-vs-make/) <small>(Aug 14)</small>
 <!-- notes ends -->
 
 </td>
