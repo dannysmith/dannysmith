@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Better Bookmark Cards](https://danny.is/notes/better-bookmark-cards/) <small>(Aug 27)</small>
+- [Harnesses are Situated Agents](https://danny.is/notes/2026-08-26-harnesses-are-situated-agents/) <small>(Aug 26)</small>
 - [Claude Code's Bash Sandbox](https://danny.is/notes/claude-codes-bash-sandbox/) <small>(Aug 19)</small>
 - [Apps After Agents | Bricolage](https://danny.is/notes/2026-08-18-apps-after-agents-bricolage/) <small>(Aug 18)</small>
 - [A License to Act - Jim Nielsen](https://danny.is/notes/2026-08-14-a-license-to-act/) <small>(Aug 14)</small>
-- [Against Doomerism](https://danny.is/notes/2026-08-14-against-doomerism-terence-edens-blog/) <small>(Aug 14)</small>
-- [Better Tweets on this site](https://danny.is/notes/2026-08-14-better-tweets-on-this-site/) <small>(Aug 14)</small>
 <!-- notes ends -->
 
 </td>
