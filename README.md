@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
-- [Better Bookmark Cards](https://danny.is/notes/better-bookmark-cards/) <small>(Aug 27)</small>
-- [Harnesses are Situated Agents](https://danny.is/notes/2026-08-26-harnesses-are-situated-agents/) <small>(Aug 26)</small>
-- [Claude Code's Bash Sandbox](https://danny.is/notes/claude-codes-bash-sandbox/) <small>(Aug 19)</small>
-- [Apps After Agents | Bricolage](https://danny.is/notes/2026-08-18-apps-after-agents-bricolage/) <small>(Aug 18)</small>
-- [A License to Act - Jim Nielsen](https://danny.is/notes/2026-08-14-a-license-to-act/) <small>(Aug 14)</small>
+- [Agent memory as a file format](https://danny.is/notes/2026-09-18-agent-memory-as-a-file/) <small>(Sep 18)</small>
+- [When the canvas starts acting, who’s really in control? by Aurélie Radom](https://danny.is/notes/2026-09-17-when-the-canvas-starts-acting/) <small>(Sep 17)</small>
+- [What's your minimal viable model? - Waldek Mastykarz](https://danny.is/notes/2026-09-12-whats-your-minimal-viable-model/) <small>(Sep 12)</small>
+- [The Contribution Theatre Trap | Narayan](https://danny.is/notes/2026-09-10-the-contribution-theatre-trap-narayan/) <small>(Sep 10)</small>
+- [Your product didn't get worse by Waldek Mastykarz](https://danny.is/notes/2026-09-10-your-product-didnt-get-worse/) <small>(Sep 10)</small>
 <!-- notes ends -->
 
 </td>
