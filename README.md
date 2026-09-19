@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Adding annotations to articles on this site](https://danny.is/writing/margin-annotations/) <small>(Sep 18)</small>
 - [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
 - [An actual homepage for this site (finally)](https://danny.is/writing/an-actual-homepage/) <small>(Jul 23)</small>
 - [Introducing my very own Loom](https://danny.is/writing/loomclone-part-1/) <small>(Jul 07)</small>
 - [Vibe coding an iOS app to publish notes here](https://danny.is/writing/vibe-coding-ios-app-chrome-extension-publish-notes/) <small>(Jun 30)</small>
-- [Making this Astro site more Agent-Friendly](https://danny.is/writing/making-this-astro-site-agent-friendly/) <small>(Jun 18)</small>
 <!-- articles ends -->
 
 </td>
