@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Getting my books onto BookHive](https://danny.is/writing/books-on-bookhive/) <small>(Sep 22)</small>
 - [Adding annotations to articles on this site](https://danny.is/writing/margin-annotations/) <small>(Sep 18)</small>
 - [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
 - [An actual homepage for this site (finally)](https://danny.is/writing/an-actual-homepage/) <small>(Jul 23)</small>
 - [Introducing my very own Loom](https://danny.is/writing/loomclone-part-1/) <small>(Jul 07)</small>
-- [Vibe coding an iOS app to publish notes here](https://danny.is/writing/vibe-coding-ios-app-chrome-extension-publish-notes/) <small>(Jun 30)</small>
 <!-- articles ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [The Curiosity That Is Minecraft: Pi Edition](https://danny.is/notes/2026-09-24-curiosity-minecraft-pi-edition/) <small>(Sep 24)</small>
+- [The AT Protocol Harkens An Old Web Ethos](https://danny.is/notes/2026-09-24-protocol-harkens-old-web-ethos/) <small>(Sep 24)</small>
+- [A calendar view for my writing](https://danny.is/notes/calendar-view-for-my-writing/) <small>(Sep 24)</small>
+- [Recipe For Software Quality](https://danny.is/notes/2026-09-23-recipe-software-quality-jim-nielsen-s-notes/) <small>(Sep 23)</small>
 - [Agent memory as a file format](https://danny.is/notes/2026-09-18-agent-memory-as-a-file/) <small>(Sep 18)</small>
-- [When the canvas starts acting, who’s really in control? by Aurélie Radom](https://danny.is/notes/2026-09-17-when-the-canvas-starts-acting/) <small>(Sep 17)</small>
-- [What's your minimal viable model? - Waldek Mastykarz](https://danny.is/notes/2026-09-12-whats-your-minimal-viable-model/) <small>(Sep 12)</small>
-- [The Contribution Theatre Trap | Narayan](https://danny.is/notes/2026-09-10-the-contribution-theatre-trap-narayan/) <small>(Sep 10)</small>
-- [Your product didn't get worse by Waldek Mastykarz](https://danny.is/notes/2026-09-10-your-product-didnt-get-worse/) <small>(Sep 10)</small>
 <!-- notes ends -->
 
 </td>
