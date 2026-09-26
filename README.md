@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Generating a video for Astro Editor with Opus 5.5](https://danny.is/notes/generating-video-astro-editor-opus-55/) <small>(Sep 26)</small>
 - [The Curiosity That Is Minecraft: Pi Edition](https://danny.is/notes/2026-09-24-curiosity-minecraft-pi-edition/) <small>(Sep 24)</small>
 - [The AT Protocol Harkens An Old Web Ethos](https://danny.is/notes/2026-09-24-protocol-harkens-old-web-ethos/) <small>(Sep 24)</small>
 - [A calendar view for my writing](https://danny.is/notes/calendar-view-for-my-writing/) <small>(Sep 24)</small>
 - [Recipe For Software Quality](https://danny.is/notes/2026-09-23-recipe-software-quality-jim-nielsen-s-notes/) <small>(Sep 23)</small>
-- [Agent memory as a file format](https://danny.is/notes/2026-09-18-agent-memory-as-a-file/) <small>(Sep 18)</small>
 <!-- notes ends -->
 
 </td>
