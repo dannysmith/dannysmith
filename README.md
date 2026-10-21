@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [How Voicepad Works](https://danny.is/writing/how-voicepad-works/) <small>(Oct 21)</small>
 - [Getting my books onto BookHive](https://danny.is/writing/books-on-bookhive/) <small>(Sep 22)</small>
 - [Adding annotations to articles on this site](https://danny.is/writing/margin-annotations/) <small>(Sep 18)</small>
 - [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
 - [An actual homepage for this site (finally)](https://danny.is/writing/an-actual-homepage/) <small>(Jul 23)</small>
-- [Introducing my very own Loom](https://danny.is/writing/loomclone-part-1/) <small>(Jul 07)</small>
 <!-- articles ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Letting Claude write to my daily note](https://danny.is/notes/claude-daily-log/) <small>(Oct 20)</small>
+- [How I use Claude skills and projects in the desktop app](https://danny.is/notes/claude-skills-projects-desktop-app/) <small>(Oct 20)</small>
 - [Sail o' the Line](https://danny.is/notes/sail-o-line-minisite/) <small>(Oct 04)</small>
 - [A place to keep single-page tools](https://danny.is/notes/place-keep-single-page-tools/) <small>(Oct 02)</small>
 - [A screenshot command for my agents](https://danny.is/notes/2026-09-30-a-screenshot-command-for-agents/) <small>(Sep 30)</small>
-- [Generating a video for Astro Editor with Opus 5.5](https://danny.is/notes/generating-video-astro-editor-opus-55/) <small>(Sep 26)</small>
-- [The Curiosity That Is Minecraft: Pi Edition](https://danny.is/notes/2026-09-24-curiosity-minecraft-pi-edition/) <small>(Sep 24)</small>
 <!-- notes ends -->
 
 </td>
