@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Better Mobile Navigation on this site](https://danny.is/notes/better-mobile-navigation/) <small>(Oct 23)</small>
 - [Letting Claude write to my daily note](https://danny.is/notes/claude-daily-log/) <small>(Oct 20)</small>
 - [How I use Claude skills and projects in the desktop app](https://danny.is/notes/claude-skills-projects-desktop-app/) <small>(Oct 20)</small>
 - [Sail o' the Line](https://danny.is/notes/sail-o-line-minisite/) <small>(Oct 04)</small>
 - [A place to keep single-page tools](https://danny.is/notes/place-keep-single-page-tools/) <small>(Oct 02)</small>
-- [A screenshot command for my agents](https://danny.is/notes/2026-09-30-a-screenshot-command-for-agents/) <small>(Sep 30)</small>
 <!-- notes ends -->
 
 </td>
