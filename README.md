@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Astro Editor 1.1](https://danny.is/writing/astro-editor-1-1/) <small>(Nov 14)</small>
 - [How Voicepad Works](https://danny.is/writing/how-voicepad-works/) <small>(Oct 21)</small>
 - [Getting my books onto BookHive](https://danny.is/writing/books-on-bookhive/) <small>(Sep 22)</small>
 - [Adding annotations to articles on this site](https://danny.is/writing/margin-annotations/) <small>(Sep 18)</small>
 - [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
-- [An actual homepage for this site (finally)](https://danny.is/writing/an-actual-homepage/) <small>(Jul 23)</small>
 <!-- articles ends -->
 
 </td>
