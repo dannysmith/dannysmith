@@ -45,11 +45,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Recent Releases
 <!-- releases starts -->
+- [astro-editor v1.1.1-test.1](https://github.com/dannysmith/astro-editor/releases/tag/v1.1.1-test.1) <small>(Nov 17)</small>
+- [obsidian-taskdn 0.3.0](https://github.com/dannysmith/obsidian-taskdn/releases/tag/0.3.0) <small>(Nov 16)</small>
+- [taskdn tdn-cli-v1.0.2](https://github.com/dannysmith/taskdn/releases/tag/tdn-cli-v1.0.2) <small>(Nov 15)</small>
 - [astro-editor v1.1.0](https://github.com/dannysmith/astro-editor/releases/tag/v1.1.0) <small>(Nov 12)</small>
 - [astro-editor v1.0.21-test.1](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.21-test.1) <small>(Nov 10)</small>
-- [astro-editor v1.0.20](https://github.com/dannysmith/astro-editor/releases/tag/v1.0.20) <small>(Oct 28)</small>
-- [taskdn desktop-v0.1.7](https://github.com/dannysmith/taskdn/releases/tag/desktop-v0.1.7) <small>(Oct 22)</small>
-- [taskdn tdn-cli-v1.0.1](https://github.com/dannysmith/taskdn/releases/tag/tdn-cli-v1.0.1) <small>(Oct 22)</small>
 <!-- releases ends -->
 
 </td>
@@ -69,11 +69,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Notes
 <!-- notes starts -->
+- [Reducing permission prompts in my bash sandbox](https://danny.is/notes/reducing-permission-prompts-bash-sandbox/) <small>(Nov 15)</small>
 - [The State of Context Engineering](https://danny.is/notes/2026-11-05-the-state-of-context-engineering/) <small>(Nov 05)</small>
 - [Better Mobile Navigation on this site](https://danny.is/notes/better-mobile-navigation/) <small>(Oct 23)</small>
 - [Letting Claude write to my daily note](https://danny.is/notes/claude-daily-log/) <small>(Oct 20)</small>
 - [How I use Claude skills and projects in the desktop app](https://danny.is/notes/claude-skills-projects-desktop-app/) <small>(Oct 20)</small>
-- [Sail o' the Line](https://danny.is/notes/sail-o-line-minisite/) <small>(Oct 04)</small>
 <!-- notes ends -->
 
 </td>
