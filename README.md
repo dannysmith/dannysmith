@@ -45,11 +45,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Recent Releases
 <!-- releases starts -->
+- [astro-editor v1.2.1](https://github.com/dannysmith/astro-editor/releases/tag/v1.2.1) <small>(Nov 25)</small>
 - [astro-editor v1.2.1-test.1](https://github.com/dannysmith/astro-editor/releases/tag/v1.2.1-test.1) <small>(Nov 25)</small>
 - [astro-editor v1.2.0](https://github.com/dannysmith/astro-editor/releases/tag/v1.2.0) <small>(Nov 23)</small>
 - [astro-editor v1.1.1-test.1](https://github.com/dannysmith/astro-editor/releases/tag/v1.1.1-test.1) <small>(Nov 17)</small>
 - [obsidian-taskdn 0.3.0](https://github.com/dannysmith/obsidian-taskdn/releases/tag/0.3.0) <small>(Nov 16)</small>
-- [taskdn tdn-cli-v1.0.2](https://github.com/dannysmith/taskdn/releases/tag/tdn-cli-v1.0.2) <small>(Nov 15)</small>
 <!-- releases ends -->
 
 </td>
@@ -57,11 +57,11 @@ A specialized schema-aware markdown editor for Astro content collections.
 
 ### Writing
 <!-- articles starts -->
+- [Astro Editor 1.2](https://danny.is/writing/astro-editor-1-2/) <small>(Nov 23)</small>
 - [Astro Editor 1.1](https://danny.is/writing/astro-editor-1-1/) <small>(Nov 14)</small>
 - [How Voicepad Works](https://danny.is/writing/how-voicepad-works/) <small>(Oct 21)</small>
 - [Getting my books onto BookHive](https://danny.is/writing/books-on-bookhive/) <small>(Sep 22)</small>
 - [Adding annotations to articles on this site](https://danny.is/writing/margin-annotations/) <small>(Sep 18)</small>
-- [How my personal video platform works](https://danny.is/writing/loomclone-part-2/) <small>(Jul 24)</small>
 <!-- articles ends -->
 
 </td>
